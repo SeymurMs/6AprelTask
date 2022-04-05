@@ -21,7 +21,7 @@ namespace _6AprelTask
                 
 
             }
-            total/=_orders.Count;
+            total/=_orders.Count-1;
             return total;
             
         }
@@ -33,7 +33,7 @@ namespace _6AprelTask
             {
                 total += item.TotalAmount;
             }
-            total /= result.Count;
+            total /= result.Count-1;
             return total;
         }
         public void RemoveOrderByNo(int? no)

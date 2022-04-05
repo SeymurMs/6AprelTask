@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\6AprelTask\\6AprelTask\\6AprelTask.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\6AprelTask\\6AprelTask\\6AprelTask\\6AprelTask.csproj",
       "projectName": "6AprelTask",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\6AprelTask\\6AprelTask\\6AprelTask.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\6AprelTask\\6AprelTask\\6AprelTask\\6AprelTask.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\source\\repos\\6AprelTask\\6AprelTask\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\6AprelTask\\6AprelTask\\6AprelTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
